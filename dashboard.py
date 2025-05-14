@@ -13,21 +13,7 @@ def run():
         """
     )
 
-    # Caminhos das imagens
-    dashpower_path = "imagens/dashpower.png"
-    dashstream_path = "imagens/dashstream.png"
-
-    # Exibir dashpower.png
-    if os.path.exists(dashpower_path):
-        imagem = Image.open(dashpower_path)
-        st.image(imagem, caption="Dashboard Power BI", use_container_width=True)
-    else:
-        st.warning("A imagem 'dashpower.png' não foi encontrada na pasta 'imagens'. Verifique o caminho e tente novamente.")
-
-    # Exibir dashstream.png
-    if os.path.exists(dashstream_path):
-        imagem = Image.open(dashstream_path)
-        st.image(imagem, caption="Dashboard Streamlit", use_container_width=True)
-    else:
-        st.warning("A imagem 'dashstream.png' não foi encontrada na pasta 'imagens'. Verifique o caminho e tente novamente.")
-
+    imagem = Image.open("Imagens/dashstream.png")
+    st.image(imagem, caption="Dashboard Interativo", use_column_width=True)
+    imagem = Image.open("Imagens/dashpower.png")
+    st.image(imagem, caption="Dashboard Interativo", use_column_width=True)
