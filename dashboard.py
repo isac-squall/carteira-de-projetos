@@ -15,17 +15,17 @@ def run():
 
     # Carregar a imagem 'dashpower.png'
     try:
-        imagem = Image.open("imagens/dashpower.png")
+        imagem = Image.open("dashpower.png")
         # Exibir a imagem no Streamlit
         st.image(imagem, caption="Dashboard Power BI", use_container_width=True)
     except FileNotFoundError:
-        st.error("A imagem 'dashpower.png' não foi encontrada na pasta 'imagens'. Verifique o caminho e tente novamente.")
+        st.error("A imagem 'dashpower.png' não foi encontrada. Verifique o caminho e tente novamente.")
 
     # Carregar a imagem 'dashstream.png'
     try:
-        imagem = Image.open("imagens/dashstream.png")
+        imagem = Image.open("dashstream.png")
         # Exibir a imagem no Streamlit
         st.image(imagem, caption="Dashboard Streamlit", use_container_width=True)
     except FileNotFoundError:
-        st.error("A imagem 'dashstream.png' não foi encontrada na pasta 'imagens'. Verifique o caminho e tente novamente.")
+        st.error("A imagem 'dashstream.png' não foi encontrada. Verifique o caminho e tente novamente.")
 
