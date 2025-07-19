@@ -14,10 +14,12 @@ def run():
         **Cargo**: Analista de Suporte Jr  
         🗓️ **De**: 10/2024 **até** 01/2025  
         **Área**: Informática, TI, Telecomunicações - ERP / CRM / Sistemas Integrados (Operacional)  
-        - Suporte técnico aos usuários para Varejo e Atacado, otimizando a eficiência dos fluxos de trabalho dos clientes.  
-        - Busca de arquivos XML do mês para o cliente.  
-        - Configurações de SAT e certificados digitais no PDV.  
-        - Formas de pagamento e emissão de NFC-e.
+        - Suporte Técnico: Realizou suporte Nível 2 para ERPs (varejo/atacado), resolvendo falhas de hardware/software,
+          recuperação de XML e configuração de PDV para Formas de pagamento e emissão de NFC-e. 
+        - Infraestrutura de TI: Gerenciou inventário de TI (notebooks, roteadores, firewalls)
+        executou manutenções, aumentando disponibilidade do sistema em 20%.  
+        - Gestão de Incidentes: Rastreou 200+ chamados via sistemas Help Desk, cumprindo 95% dos SLAs de resolução.
+        
 
         **Empresa**: Simple Dot Tecnologia da Informação Ltda. em São Paulo, Barueri - SP  
         **Cargo**: Analista de Sistemas ERP  
