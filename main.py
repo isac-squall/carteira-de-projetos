@@ -94,35 +94,6 @@ def main():
         st.image("Isac.jpg", width=200)
         st.title("Isac Cavalheiro")
 
-        # Informações de contato
-        st.markdown(
-            """
-            <div style="text-align: center;">
-                <h3>Contato</h3>
-                <p><strong>Email:</strong> isac.cavalheiro@hotmail.com</p>
-                <p><strong>📞 Telefone:</strong> (11) 9 6952-7161</p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
-        # Informações profissionais
-        st.markdown(
-            """
-            <div style="text-align: center;">
-                <h2>👉 Analista de Sistema</h2>
-                <p><strong>🎓Graduação:</strong> Gestão de Tecnologia da Informação (2019)</p>
-                <p><strong>Experiência:</strong></p>
-                <ul style="list-style-type: none; padding: 0;">
-                    <li>Analista de Implementação ERP na Simpledot 🗓️ 2024</li>
-                    <li>Analista de Suporte Jr na C8 Sistemas ERP 🗓️ 2025</li>
-                </ul>
-                <p><strong>📍 Localização:</strong> Osasco, São Paulo, Brasil</p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
         # Redes sociais
         st.markdown(
             """
@@ -145,12 +116,41 @@ def main():
             unsafe_allow_html=True,
         )
 
-    # Cria o menu de navegação
-    page = st.sidebar.selectbox(
-        label="Navegação",
-        options=["Início", "Projetos", "Vídeos", "Dashboard", "Contato", "Sobre"],
-        index=0,
-    )
+        # Informações de contato
+        st.markdown(
+            """
+            <div style="text-align: center;">
+                <h3>Contato</h3>
+                <p><strong>Email:</strong> isac.cavalheiro@hotmail.com</p>
+                <p><strong>📞 Telefone:</strong> (11) 9 6952-7161</p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        # Menu de navegação (agora acima das informações profissionais)
+        page = st.selectbox(
+            label="Navegação",
+            options=["Início", "Projetos", "Vídeos", "Dashboard", "Contato", "Sobre"],
+            index=0,
+        )
+
+        # Informações profissionais
+        st.markdown(
+            """
+            <div style="text-align: center;">
+                <h2>👉 Analista de Sistema</h2>
+                <p><strong>🎓Graduação:</strong> Gestão de Tecnologia da Informação (2019)</p>
+                <p><strong>Experiência:</strong></p>
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>Analista de Implementação ERP na Simpledot 🗓️ 2024</li>
+                    <li>Analista de Suporte Jr na C8 Sistemas ERP 🗓️ 2025</li>
+                </ul>
+                <p><strong>📍 Localização:</strong> Osasco, São Paulo, Brasil</p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
     # Mostra a página selecionada
     show_pages(page)
