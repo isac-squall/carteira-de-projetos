@@ -5,20 +5,21 @@ def run():
     st.title("Bem-vindo ao meu portfólio!")
     st.write(
         """
-        👉 Olá! Meu nome é Isac e sou desenvolvedor web e automação de processos em sistemas ERP.
+        👉 Olá! Meu nome é Isac sou Analista e desenvolvedor web para automação de processos em sistemas ERP.
         Neste portfólio, você encontrará informações sobre meus projetos, vídeos, dashboard, contato e um pouco sobre mim.
 
         ### Experiência profissional:
 
-        **Empresa**: C8 Sistemas em São Paulo  
-        **Cargo**: Analista de Suporte Jr  
-        🗓️ **De**: 10/2024 **até** 01/2025  
-        **Área**: Informática, TI, Telecomunicações - ERP / CRM / Sistemas Integrados (Operacional)  
-        - Suporte Técnico: Realizou suporte Nível 2 para ERPs (varejo/atacado), resolvendo falhas de hardware/software,
-          recuperação de XML e configuração de PDV para Formas de pagamento e emissão de NFC-e. 
-        - Infraestrutura de TI: Gerenciou inventário de TI (notebooks, roteadores, firewalls)
-        executou manutenções, aumentando disponibilidade do sistema em 20%.  
-        - Gestão de Incidentes: Rastreou 200+ chamados via sistemas Help Desk, cumprindo 95% dos SLAs de resolução.
+        **Empresa**: HORUS RISK SOLUCOES EM GESTAO DE RISCO LTDA.  
+        **Cargo**: Assistente de TI 
+        🗓️ **De**: 11/2025 **até** o momento  
+        **Área**: Suporte Técnico, infraestrutura de TI, manutenção de computadores, impressoras e cabeamento de rede.
+        - Suporte completo aos equipamentos e à infraestrutura de TI do cliente, incluindo a instalação, configuração e manutenção de computadores,
+         impressoras e cabeamento de rede, controle de ativos e inventário de hardware e software.
+        - Também realizo monitoramento e a manutenção das redes LAN e Wi-Fi, garantindo estabilidade e bom desempenho.
+        - Faz parte das minhas responsabilidades diagnosticar e resolver problemas de hardware e software, além de registrar procedimentos e soluções aplicadas.
+        - O trabalho é realizado em colaboração com a equipe de TI do cliente,
+        assegurando a continuidade das operações e a satisfação do usuário final.
         
 
         **Empresa**: Simple Dot Tecnologia da Informação Ltda. em São Paulo, Barueri - SP  
