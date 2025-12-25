@@ -143,8 +143,9 @@ def main():
                 <p><strong>🎓Graduação:</strong> Gestão de Tecnologia da Informação (2019)</p>
                 <p><strong>Experiência:</strong></p>
                 <ul style="list-style-type: none; padding: 0;">
-                    <li>Analista de Implementação ERP na Simpledot 🗓️ 2024</li>
+                    <li>Assistente de TI na Horus Risk Soluçõoes em Gestão de Risco LTDA 🗓️ 2026</li>
                     <li>Analista de Suporte Jr na C8 Sistemas ERP 🗓️ 2025</li>
+                    <li>Analista de Implementação ERP na Simpledot 🗓️ 2024</li>
                 </ul>
                 <p><strong>📍 Localização:</strong> Osasco, São Paulo, Brasil</p>
             </div>
