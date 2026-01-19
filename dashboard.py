@@ -8,8 +8,8 @@ def run():
 
     st.write(
         """
-        ✅ Aqui está um exemplo de um dashboard interativo que você pode criar com Python e Streamlit. 
-        Ele permite visualizar e analisar dados de forma dinâmica.
+        ✅ Aqui está um exemplo de um dashboard interativo que desenvolvi com Python e Streamlit. 
+        Permite visualizar e analisar dados de forma dinâmica.
         """
     )
 
