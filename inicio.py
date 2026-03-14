@@ -9,10 +9,21 @@ def run():
         Neste portfólio, você encontrará informações sobre meus projetos, vídeos, dashboard, contato e um pouco sobre mim.
 
         ### Experiência profissional:
+        
+         **Empresa**: LUFT SOLUTIONS LOGISTIC LTDA.  
+        **Cargo**: Analista de Operações de II 
+        🗓️ **De**: 02/03/2026 **até** o momento 
+        **Área**: Logística, transporte, operações de II, controle de pedidos, KPIs logísticos, Power Apps, Power BI, Power Automate. 
+        ✅ Principais atividades:
+        - Atuação com controle de pedidos de transporte via Power Apps.
+        - Acompanhamento da execução dos serviços das transportadorase garantia do nível de serviço.
+        - Responsável pelo desenvolvimento e monitoramento de KPIs logísticos, criação de dashboards em Power BI.
+        - Automação de fluxos em Power Automate e apoio à melhoria contínua dos processos.
+        - Participação em reuniões com parceiros internos e externos para alinhamento operacional.
 
         **Empresa**: HORUS RISK SOLUCOES EM GESTAO DE RISCO LTDA.  
         **Cargo**: Assistente de TI 
-        🗓️ **De**: 11/2025 **até** o momento  
+        🗓️ **De**: 11/2025 **até** 27/02/2026  
         **Área**: Suporte Técnico, infraestrutura de TI, manutenção de computadores, impressoras e cabeamento de rede.
         - Suporte completo aos equipamentos e à infraestrutura de TI do cliente, incluindo a instalação, configuração e manutenção de computadores,
          impressoras e cabeamento de rede, controle de ativos e inventário de hardware e software.
