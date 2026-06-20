@@ -12,12 +12,12 @@ def run():
         
          **Empresa**: LUFT SOLUTIONS LOGISTIC LTDA.  
         **Cargo**: Analista de Operações de II 
-        🗓️ **De**: 02/03/2026 **até** o momento 
+        🗓️ **De**: 02/03/2026 **até** 18/06/2026 
         **Área**: Logística, transporte, operações de II, controle de pedidos, KPIs logísticos, Power Apps, Power BI, Power Automate. 
         ✅ Principais atividades:
         - Atuação com controle de pedidos de transporte via Power Apps.
         - Acompanhamento da execução dos serviços das transportadorase garantia do nível de serviço.
-        - Responsável pelo desenvolvimento e monitoramento de KPIs logísticos, criação de dashboards em Power BI.
+        - Responsável pelo desenvolvimento e monitoramento de KPIs logísticos, criação de dashboards em Python.
         - Automação de fluxos em Power Automate e apoio à melhoria contínua dos processos.
         - Participação em reuniões com parceiros internos e externos para alinhamento operacional.
 
