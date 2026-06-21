@@ -11,10 +11,10 @@ def run():
         ### Experiência profissional:
         
          **Empresa**: LUFT SOLUTIONS LOGISTIC LTDA.  
-        **Cargo**: Analista de Operações de II 
+         **Área**: Logística, transporte, operações de II, controle de pedidos, KPIs logísticos, Power Apps, Power BI, Power Automate. 
+         **Cargo**: Analista de Operações de II 
         🗓️ **De**: 02/03/2026 **até** 18/06/2026 
         
-        **Área**: Logística, transporte, operações de II, controle de pedidos, KPIs logísticos, Power Apps, Power BI, Power Automate. 
         ✅ Principais atividades:
         - Atuação com controle de pedidos de transporte via Power Apps.
         - Acompanhamento da execução dos serviços das transportadorase garantia do nível de serviço.
@@ -23,9 +23,11 @@ def run():
         - Participação em reuniões com parceiros internos e externos para alinhamento operacional.
 
         **Empresa**: HORUS RISK SOLUCOES EM GESTAO DE RISCO LTDA.  
+         **Área**: Suporte Técnico, infraestrutura de TI, manutenção de computadores, impressoras e cabeamento de rede.
         **Cargo**: Assistente de TI 
         🗓️ **De**: 11/2025 **até** 27/02/2026  
-        **Área**: Suporte Técnico, infraestrutura de TI, manutenção de computadores, impressoras e cabeamento de rede.
+        
+        ✅ Principais atividades:
         - Suporte completo aos equipamentos e à infraestrutura de TI do cliente, incluindo a instalação, configuração e manutenção de computadores,
          impressoras e cabeamento de rede, controle de ativos e inventário de hardware e software.
         - Também realizo monitoramento e a manutenção das redes LAN e Wi-Fi, garantindo estabilidade e bom desempenho.
@@ -35,9 +37,11 @@ def run():
         
 
         **Empresa**: Simple Dot Tecnologia da Informação Ltda. em São Paulo, Barueri - SP  
+         **Área**: Informática, TI, Telecomunicações - ERP / CRM / Sistemas Integrados (Analista) 
         **Cargo**: Analista de Sistemas ERP  
         🗓️ **De**: 10/2022 **até** 09/2024  
-        **Área**: Informática, TI, Telecomunicações - ERP / CRM / Sistemas Integrados (Analista)  
+        
+        ✅ Principais atividades:
         - Realização e homologação de documentos de implantação junto aos usuários dos clientes.  
         - Implementação e parametrização dos módulos do sistema, incluindo retaguarda, PDV (frente de loja), faturamento, pedidos e compras.  
         - Ministrava treinamentos remotos e presenciais para garantir a autonomia dos clientes no uso do sistema.  
