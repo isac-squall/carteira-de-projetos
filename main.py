@@ -1,7 +1,5 @@
 import streamlit as st
 import importlib
-from PIL import Image
-import webbrowser
 
 # Configuração da página
 st.set_page_config(
@@ -12,7 +10,7 @@ st.set_page_config(
 )
 
 
-def load_css():
+def load_css() -> None:
     """Carrega todos os estilos CSS"""
     st.markdown(
         """
@@ -59,9 +57,9 @@ def load_css():
     )
 
 
-def show_pages(page):
+def show_pages(page: str) -> None:
     """Carrega o módulo correspondente à página selecionada"""
-    modules = {
+    modules: dict[str, str] = {
         "Início": "inicio",
         "Projetos": "projetos",
         "Vídeos": "videos",
@@ -84,7 +82,7 @@ def show_pages(page):
         st.write("Página não encontrada.")
 
 
-def main():
+def main() -> None:
     # Carrega o CSS
     load_css()
 
@@ -128,7 +126,7 @@ def main():
             unsafe_allow_html=True,
         )
 
-        # Menu de navegação (agora acima das informações profissionais)
+        # Menu de navegação
         page = st.selectbox(
             label="Navegação",
             options=["Início", "Projetos", "Vídeos", "Dashboard", "Contato", "Sobre"],
@@ -140,11 +138,11 @@ def main():
             """
             <div style="text-align: center;">
                 <h2>👉 Analista de Sistema</h2>
-                <p><strong>🎓Graduação:</strong> Gestão de Tecnologia da Informação (2019)</p>
+                <p><strong>🎓 Graduação:</strong> Gestão de Tecnologia da Informação (2019)</p>
                 <p><strong>Experiência:</strong></p>
                 <ul style="list-style-type: none; padding: 0;">
                     <li>Analista de Operações de II na Luft Solutions Logistic LTDA 🗓️ 2026</li>
-                    <li>Assistente de TI na Horus Risk Soluçõoes em Gestão de Risco LTDA 🗓️ 2026</li>
+                    <li>Assistente de TI na Horus Risk Soluções em Gestão de Risco LTDA 🗓️ 2026</li>
                     <li>Analista de Suporte Jr na C8 Sistemas ERP 🗓️ 2025</li>
                     <li>Analista de Implementação ERP na Simpledot 🗓️ 2024</li>
                 </ul>
@@ -157,7 +155,7 @@ def main():
     # Mostra a página selecionada
     show_pages(page)
 
-    # Adiciona um rodapé
+    # Rodapé
     st.markdown(
         """
         <footer style="text-align: center; padding: 1rem; background-color: #f1f1f1;">
